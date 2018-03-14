@@ -1,0 +1,8 @@
+# animation-utils
+
+[![NPM Version](https://img.shields.io/npm/v/animation-utils.svg)](https://www.npmjs.com/package/animation-utils)
+[![codecov](https://img.shields.io/codecov/c/github/Undistraction/animation-utils.svg)](https://codecov.io/gh/Undistraction/animation-utils)
+[![Build Status](https://img.shields.io/travis/Undistraction/animation-utils.svg)](https://travis-ci.org/Undistraction/animation-utils)
+[![DUB](https://img.shields.io/dub/l/vibe-d.svg)](./LICENSE.md)
+[![Greenkeeper badge](https://badges.greenkeeper.io/Undistraction/animation-utils.svg)](https://greenkeeper.io/)
+[![Node Security](https://nodesecurity.io/orgs/undistraction/projects/XXX/badge)](https://nodesecurity.io/orgs/undistraction/projects/XXX)

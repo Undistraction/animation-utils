@@ -9,5 +9,13 @@
 
 Animation utilities
 
+## Trigonometry
+
 * degToRad
 * radToDeg
+
+## Random
+
+* randomInRange
+* randomIntInRange
+* randomInInRangeInclusiveMax

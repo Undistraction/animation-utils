@@ -8,7 +8,7 @@ describe(`randomIntInRangeInclusiveMax()`, () => {
 
   it(`returns a random number within the supplied range (min inclusive, max exclusive`, () => {
     times(() => {
-      const result = randomIntInRangeInclusiveMax(min, max)
+      const result = randomIntInRangeInclusiveMax(Math.random)(min, max)
       expect(result).toBeGreaterThanOrEqual(min)
       expect(result).toBeLessThanOrEqual(max)
       expect(isInteger(result)).toBeTrue()

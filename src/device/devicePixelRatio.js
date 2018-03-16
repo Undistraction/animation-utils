@@ -1,1 +1,1 @@
-export default window.devicePixelRatio || 1
+export default () => window.devicePixelRatio || 1

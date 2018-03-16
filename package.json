@@ -1,12 +1,16 @@
 {
   "name": "animation-utils",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Undistraction/animation-utils.git"
   },
-  "files": ["dist", "src", "lib"],
+  "files": [
+    "dist",
+    "src",
+    "lib"
+  ],
   "keywords": [],
   "author": "Pedr Browne",
   "license": "MIT",

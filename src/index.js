@@ -16,3 +16,10 @@ export { default as randomIntInRange } from './random/randomIntInRange'
 export {
   default as randomIntInRangeInclusiveMax,
 } from './random/randomIntInRangeInclusiveMax'
+
+// -----------------------------------------------------------------------------
+// Colour
+// -----------------------------------------------------------------------------
+
+export { default as rgbArrayToString } from './color/rgbArrayToString'
+export { default as rgbaArrayToString } from './color/rgbaArrayToString'

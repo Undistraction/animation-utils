@@ -1,6 +1,6 @@
 {
   "name": "animation-utils",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "main": "lib/index.js",
   "repository": {
     "type": "git",

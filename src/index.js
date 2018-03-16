@@ -23,3 +23,9 @@ export {
 
 export { default as rgbArrayToString } from './color/rgbArrayToString'
 export { default as rgbaArrayToString } from './color/rgbaArrayToString'
+
+// -----------------------------------------------------------------------------
+// Canvas
+// -----------------------------------------------------------------------------
+
+export { default as canvasMidpoint } from './canvas/canvasMidpoint'

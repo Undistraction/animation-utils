@@ -28,7 +28,7 @@ Animation utilities
 ## Canvas
 
 * canvasMidpoint
-* canvasScaleRatio
+* canvasContentDimensions
 
 ## Device
 

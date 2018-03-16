@@ -29,7 +29,9 @@ export { default as rgbaArrayToString } from './color/rgbaArrayToString'
 // -----------------------------------------------------------------------------
 
 export { default as canvasMidpoint } from './canvas/canvasMidpoint'
-export { default as canvasScaleRatio } from './canvas/canvasScaleRatio'
+export {
+  default as canvasContentDimensions,
+} from './canvas/canvasContentDimensions'
 
 // -----------------------------------------------------------------------------
 // Device

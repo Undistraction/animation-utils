@@ -32,6 +32,7 @@ export { default as canvasMidpoint } from './canvas/canvasMidpoint'
 export {
   default as canvasContentDimensions,
 } from './canvas/canvasContentDimensions'
+export { default as canvasScaleValue } from './canvas/canvasScaleValue'
 
 // -----------------------------------------------------------------------------
 // Device

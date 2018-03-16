@@ -19,3 +19,12 @@ Animation utilities
 * randomInRange
 * randomIntInRange
 * randomInInRangeInclusiveMax
+
+## Color
+
+* rgbArrayToString
+* rgbaArrayToString
+
+## Canvas
+
+* canvasMidpoint

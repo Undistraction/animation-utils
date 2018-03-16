@@ -28,3 +28,6 @@ Animation utilities
 ## Canvas
 
 * canvasMidpoint
+## Device
+
+* devicePixelRatio

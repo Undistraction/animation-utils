@@ -6,10 +6,7 @@
     "type": "git",
     "url": "git+https://github.com/Undistraction/animation-utils.git"
   },
-  "files": [
-    "src",
-    "lib"
-  ],
+  "files": ["src", "lib"],
   "keywords": [],
   "author": "Pedr Browne",
   "license": "MIT",
@@ -32,7 +29,7 @@
     "audit:packages": "yarn outdated || true",
     "test:cov": "open coverage/index.html",
     "securityCheck": "nsp check",
-    "verify": "npm run lint && npm run test:noWatch && npm run build"
+    "verify": "npm run lint && npm run test:noWatch"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",

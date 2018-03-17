@@ -13,6 +13,8 @@ Animation utilities
 
 * degToRad
 * radToDeg
+* angleToPoint
+* distanceBetweenPoints
 
 ## Random
 

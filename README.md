@@ -34,6 +34,8 @@ Animation utilities
 * canvasContentDimensions
 * canvasScaleValue
 * canvasAvailableMimeTypes
+* canvasToImage
+* canvasToDownload
 
 ## Device
 

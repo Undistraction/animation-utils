@@ -41,6 +41,8 @@ export { default as canvasScaleValue } from './canvas/canvasScaleValue'
 export {
   default as canvasAvailableMimeTypes,
 } from './canvas/canvasAvailableMimeTypes'
+export { default as canvasToImage } from './canvas/canvasToImage'
+export { default as canvasToDownload } from './canvas/canvasToDownload'
 
 // -----------------------------------------------------------------------------
 // Device

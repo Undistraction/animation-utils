@@ -11,6 +11,7 @@ Animation utilities
 
 ## Trigonometry
 
+* point
 * degToRad
 * radToDeg
 * angleToPoint

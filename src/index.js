@@ -38,6 +38,9 @@ export {
   default as canvasContentDimensions,
 } from './canvas/canvasContentDimensions'
 export { default as canvasScaleValue } from './canvas/canvasScaleValue'
+export {
+  default as canvasAvailableMimeTypes,
+} from './canvas/canvasAvailableMimeTypes'
 
 // -----------------------------------------------------------------------------
 // Device

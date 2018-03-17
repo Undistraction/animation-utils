@@ -33,6 +33,7 @@ Animation utilities
 * canvasMidpoint
 * canvasContentDimensions
 * canvasScaleValue
+* canvasAvailableMimeTypes
 
 ## Device
 
